@@ -1,0 +1,12 @@
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.DAL\bin\Debug\Organizasyon.DAL.dll.config
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.DAL\bin\Debug\Organizasyon.DAL.dll
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.DAL\bin\Debug\Organizasyon.DAL.pdb
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.DAL\obj\Debug\Organizasyon.DAL.csprojAssemblyReference.cache
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.DAL\obj\Debug\Organizasyon.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.DAL\obj\Debug\Organizasyon.DAL.csproj.CopyComplete
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.DAL\obj\Debug\Organizasyon.DAL.dll
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.DAL\obj\Debug\Organizasyon.DAL.pdb

@@ -1,0 +1,15 @@
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\bin\Debug\Organizasyon.BLL.dll.config
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\bin\Debug\Organizasyon.BLL.dll
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\bin\Debug\Organizasyon.BLL.pdb
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\bin\Debug\Organizasyon.DAL.dll
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\bin\Debug\Organizasyon.DAL.pdb
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\bin\Debug\Organizasyon.DAL.dll.config
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\obj\Debug\Organizasyon.BLL.csprojAssemblyReference.cache
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\obj\Debug\Organizasyon.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\obj\Debug\Organizasyon.BLL.csproj.CopyComplete
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\obj\Debug\Organizasyon.BLL.dll
+C:\Users\Levent\source\repos\Organizasyon\Organizasyon.BLL\obj\Debug\Organizasyon.BLL.pdb

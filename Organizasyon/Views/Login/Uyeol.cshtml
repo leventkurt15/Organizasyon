@@ -1,0 +1,26 @@
+﻿@model Organizasyon.DAL.Login
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Uyeol", "Login", FormMethod.Post))
+{
+    <br />
+    <div class="input-group">
+        <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+        @Html.TextBoxFor(t => t.Username, new { @class = "form-control", placeholder = "UserName" })
+    </div>
+    <br />
+    <div class="input-group">
+        <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+        @Html.TextBoxFor(t => t.Password, new { @class = "form-control", placeholder = "Password" })
+    </div>
+    <br />
+
+    <input type="submit" value="Login" class="btn btn-success" />
+}
+
+<h2>Index</h2>
